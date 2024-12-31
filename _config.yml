@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mengzhou Wu | 吴孟周"
-description              : "The personal website of Mengzhou Wu, who is a undergraduate student from Peking University, school of EECS. "
+description              : "Undergraduate student of Peking University, school of EECS. Research interests include UI testing automation, AI4SE, SE4AI."
 repository               : "wumengz/wumengz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Mengzhou Wu"
-  # avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/android-chrome-192x192.png"
   bio              : "Peking University"
   location         : "Beijing, China"
   employer         :
