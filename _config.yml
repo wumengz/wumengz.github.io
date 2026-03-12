@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mengzhou Wu | 吴孟周"
-description              : "Undergraduate student of Peking University, school of EECS. My research interests include UI testing automation, AI4SE, SE4AI."
+description              : "Ph.D. student at Peking University working on GUI agents, UI testing, and foundation models for software engineering."
 repository               : "wumengz/wumengz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mengzhou Wu"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "Peking University"
+  bio              : "Ph.D. student, School of Computer Science"
   location         : "Beijing, China"
-  employer         :
+  employer         : "PKUASE Group"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=J0LIkIsAAAAJ"
   email            : "wmz@stu.pku.edu.cn"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "wumengz"
   google_plus      :
   keybase          :
   instagram        :
