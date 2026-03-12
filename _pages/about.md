@@ -36,9 +36,9 @@ Before starting my Ph.D. in September 2025, I received my B.S. (Honors) in Compu
 
 Full list: [Google Scholar](https://scholar.google.com/citations?user=J0LIkIsAAAAJ) <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations">
 
-<div class='paper-box'>
-<div class='paper-box-image'>
-  <div><img src='images/publications/ui-oceanus.png' alt="UI-Oceanus figure" width="100%"></div>
+<div class='paper-box paper-box--featured'>
+<div class='paper-box-image paper-box-image--uioceanus'>
+  <div><img class='paper-thumb paper-thumb--uioceanus' src='images/publications/ui-oceanus.png' alt="UI-Oceanus figure" width="100%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,9 +49,9 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=J0LIkIsAAA
 </div>
 </div>
 
-<div class='paper-box'>
-<div class='paper-box-image'>
-  <div><img src='images/publications/element-aware.png' alt="Element-Aware figure" width="100%"></div>
+<div class='paper-box paper-box--featured'>
+<div class='paper-box-image paper-box-image--element-aware'>
+  <div><img class='paper-thumb paper-thumb--element-aware' src='images/publications/element-aware.png' alt="Element-Aware figure" width="100%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
