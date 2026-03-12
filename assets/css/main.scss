@@ -107,31 +107,14 @@
         display: block;
         width: 100%;
         max-width: none;
-        height: 100%;
+        height: auto;
         box-shadow: none;
-        object-fit: cover;
-        transform-origin: center top;
+        object-fit: contain;
     }
 
     .paper-box-text {
         padding-top: 0.25em;
     }
-}
-
-.paper-box-image--uioceanus > div {
-    aspect-ratio: 1.85 / 1;
-}
-
-.paper-thumb--uioceanus {
-    transform: scale(1.42);
-}
-
-.paper-box-image--element-aware > div {
-    aspect-ratio: 1.85 / 1;
-}
-
-.paper-thumb--element-aware {
-    transform: scale(1.36);
 }
 
 $scroll_offset : 2em;
