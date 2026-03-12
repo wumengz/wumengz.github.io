@@ -3,23 +3,14 @@ main:
   - title: "About Me"
     url: "#about-me"
 
-  - title: "News"
-    url: "#news"
-
   - title: "Publications"
-    url: "#selected-publications"
+    url: "#publications"
 
-  - title: "Honors and Awards"
-    url: "#honors-and-awards"
+  - title: "Awards"
+    url: "#awards"
 
-  - title: "Education"
-    url: "#education"
+  - title: "Services"
+    url: "#services"
 
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
-
-  - title: "Research Experience"
-    url: "#research-experience"
-
-  - title: "Competitive Programming"
-    url: "#competitive-programming"
+  - title: "Work Experience"
+    url: "#work-experience"

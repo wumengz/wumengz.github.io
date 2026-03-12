@@ -16,79 +16,65 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+## About Me
 
-I am a Ph.D. student in the School of Computer Science at Peking University, advised by Prof. Tao Xie. Before that, I received my B.S. (Honors) in Computer Science from Peking University in June 2025.
+I am Mengzhou Wu, a Ph.D. student in the School of Computer Science at Peking University and a member of PKUASE Group, advised by Prof. Tao Xie.
 
-I am a member of PKUASE Group. My research interests lie in GUI agents, mobile/UI testing, and foundation models for software engineering. Recently, I have been working on scalable training pipelines for GUI agents, synthetic environment construction, reinforcement learning for multi-step decision making, and evaluation/benchmarking for real-world GUI tasks.
+My research interests lie in GUI agents, and foundation models for software engineering. Recently, I have been working on scalable training pipelines for GUI agents, synthetic environment construction, multi-turn reinforcement learning, and evaluation benchmarks for real-world GUI tasks.
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Before starting my Ph.D. in September 2025, I received my B.S. (Honors) in Computer Science from Peking University's Turing Class in June 2025.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
-<span class='anchor' id='news'></span>
-## News
-- **2025.09** Started my Ph.D. at Peking University and joined the Turing Graduate Program.
-- **2025** Our paper on cost-efficient GUI testing in industry was accepted to **ASE 2025**.
-- **2023** Selected as a **CCF Outstanding Undergraduate**, one of two recipients from Peking University that year.
-
-<span class='anchor' id='research-experience'></span>
-## Research Experience
-- **2022.12 - Present**, **PKUASE Group**, advised by Prof. Tao Xie.
-  - Leading the design of an end-to-end training pipeline for GUI agents, spanning both mid-training and post-training.
-  - Exploring multi-turn reinforcement learning, rejection sampling, unsupervised data scaling, and benchmark construction for GUI agents.
-  - Developing LLM-based agents for software testing, automated test generation, and Android UI test migration across environments.
-  - Participating in research on model merging and parameter-space understanding for large models.
-
-<span class='anchor' id='selected-publications'></span>
-## Selected Publications
+<span class='anchor' id='publications'></span>
+## Publications
 
 Full list: [Google Scholar](https://scholar.google.com/citations?user=J0LIkIsAAAAJ) <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations">
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **UI-Oceanus: Scaling GUI Agents with Synthetic Environmental Dynamics.** Mengzhou Wu, Yuzhe Guo, Yuan Cao, Haochuan Lu, dfshenzhu, Pingzhe Qu, Xin Chen, Kangqin, Zhongpu Wang, Xiaode Zhang, Xinyi Wang, Wei Dai, Gang Cao, Yuetang Deng, Gong Zhi, Dezhi Ran, Linyi Li, Wei Yang, Tao Xie.
+- **[Element-Aware Fine-Tuning of Vision-Language Models for Cost-Efficient GUI Testing in an Industrial Setting](https://conf.researchr.org/details/ase-2025/ase-2025-industry-showcase/42/Element-Aware-Fine-Tuning-of-Vision-Language-Models-for-Cost-Efficient-GUI-Testing-in).** Mengzhou Wu, Yuzhe Guo, Yuan Cao, Haochuan Lu, Hengyu Zhang, Xia Zeng, Liangchao Yao, Yuetang Deng, Dezhi Ran, Wei Yang, Tao Xie. *ASE 2025*.
+- **[Skill-Adaptive Imitation Learning for UI Test Reuse](https://arxiv.org/abs/2409.13311).** Mengzhou Wu, Hao Wang, Jun Ren, Yuan Cao, Yuetong Li, Alex Jiang, Dezhi Ran, Yitao Hu, Wei Yang, Tao Xie. *arXiv*.
+- **[Beyond Pass or Fail: A Multi-Dimensional Benchmark for Mobile UI Navigation](https://arxiv.org/abs/2501.02863).** Dezhi Ran, Mengzhou Wu, Hao Yu, Yuetong Li, Jun Ren, Yuan Cao, Xia Zeng, Haochuan Lu, Zexin Xu, Mengqian Xu, Ting Su, Liangchao Yao, Ting Xiong, Wei Yang, Yuetang Deng, Assaf Marron, David Harel, Tao Xie. *arXiv*.
+- **[Guardian: A Runtime Framework for LLM-Based UI Exploration](https://doi.org/10.1145/3650212.3680334).** Dezhi Ran, Hao Wang, Zihe Song, Mengzhou Wu, Yuan Cao, Ying Zhang, Wei Yang, Tao Xie. *Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, 2024*.
+- **[GUI-GENESIS: Automated Synthesis of Efficient Environments with Verifiable Rewards for GUI Agent Post-Training](https://arxiv.org/abs/2602.14093).** Yuan Cao, Dezhi Ran, Mengzhou Wu, Yuzhe Guo, Xin Chen, Ang Li, Gang Cao, Gong Zhi, Hao Yu, Linyi Li, Wei Yang, Tao Xie. *arXiv*.
+- **[From User Interface to Agent Interface: Efficiency Optimization of UI Representations for LLM Agents](https://arxiv.org/abs/2512.13438).** Dezhi Ran, Zhi Gong, Yuzhe Guo, Mengzhou Wu, Yuan Cao, Haochuan Lu, Hengyu Zhang, Xia Zeng, Gang Cao, Liangchao Yao, Yuetang Deng, Wei Yang, Tao Xie. *arXiv*.
+- **[Foundation Model Engineering: Engineering Foundation Models Just as Engineering Software](https://doi.org/10.1145/3719005).** Dezhi Ran, Mengzhou Wu, Wei Yang, Tao Xie. *ACM Transactions on Software Engineering and Methodology, 2025*.
+- **[An Infrastructure Software Perspective toward Computation Offloading between Executable Specifications and Foundation Models](https://doi.org/10.1007/s11432-025-4311-9).** Dezhi Ran, Mengzhou Wu, Yuan Cao, Assaf Marron, David Harel, Tao Xie. *Science China Information Sciences, 2025*.
+- **[AppForge: From Assistant to Independent Developer -- Are GPTs Ready for Software Development?](https://arxiv.org/abs/2510.07740).** Dezhi Ran, Yuan Cao, Mengzhou Wu, Simin Chen, Yuzhe Guo, Jun Ren, Zihe Song, Hao Yu, Jialei Wei, Linyi Li, Wei Yang, Baishakhi Ray, Tao Xie. *ICLR 2026*.
+- **Trustworthy and Efficient Development of FM-Native Software via Computation Offloading with A Runtime System.** Dezhi Ran, Zihe Song, Mengzhou Wu, Yuan Cao, Wei Yang, Tao Xie. *FSE 2030 Software Engineering Roadmap Workshop*.
+- **From Operations to Intents: Envisioning Application Software and Its Engineering in the Era of Foundation Models.** Dezhi Ran, Yuan Cao, Mengzhou Wu, Wei Yang, Tao Xie. *FSE 2030 Software Engineering Roadmap Workshop*.
+- **[From User Operations to Agentic Automation: Toward Intent-Oriented Software in the LLM Era](https://jcst.ict.ac.cn/en/article/doi/10.1007/s11390-026-6182-0).** Tao Xie, Dezhi Ran, Yuan Cao, Mengzhou Wu, Yuzhe Guo, Wei Yang. *Journal of Computer Science and Technology*.
+- **[An Empirical Study and Theoretical Explanation on Task-Level Model-Merging Collapse](https://openreview.net/forum?id=vBk8rBx06H).** Yuan Cao, Dezhi Ran, Yuzhe Guo, Mengzhou Wu, Simin Chen, Linyi Li, Wei Yang, Tao Xie. *OpenReview*.
+- **[KernelBand: Boosting LLM-Based Kernel Optimization with a Hierarchical and Hardware-Aware Multi-Armed Bandit](https://arxiv.org/abs/2511.18868).** Dezhi Ran, Shuxiao Xie, Mingfang Ji, Ziyue Hua, Mengzhou Wu, Yuan Cao, Yuzhe Guo, Hao Yu, Linyi Li, Yitao Hu, Tao Xie. *arXiv*.
+- **[Medusa: A Framework for Collaborative Development of Foundation Models with Automated Parameter Ownership Assignment](https://dl.acm.org/doi/10.1145/3729385).** Dezhi Ran, Yuan Cao, Yuzhe Guo, Yuetong Li, Mengzhou Wu, Simin Chen, Wei Yang, Tao Xie. *Proceedings of the ACM on Software Engineering, 2025*.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<span class='anchor' id='awards'></span>
+## Awards
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- 2023, CCF Outstanding Undergraduate, one of two recipients from Peking University.
+- 2020, NOI Gold Medal and National Training Team.
+- 2025, Turing Graduate Program, School of Computer Science, Peking University.
+- 2022-2023, Gold medals at CCPC and ICPC regional contests, including CCPC Mianyang Rank 3, ICPC Xi'an, ICPC Jinan, and ICPC Kunming.
+- 2024, Huawei Scholarship, Peking University.
+- 2023, Suzhou Industrial Park Scholarship, Peking University.
+- 2022, Shenzhen Stock Exchange Scholarship, Peking University.
+- 2024, Meritorious Winner, Peking University.
+- 2023, Meritorious Winner, Peking University.
+- 2022, Academic Excellence Award, Peking University.
+- 2021, Peking University Freshman Third-Class Scholarship.
+- 2021, EECS Freshman Second-Class Scholarship.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+<span class='anchor' id='services'></span>
+## Services
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-- **UI-Oceanus: Scaling GUI Agents with Synthetic Environmental Dynamics.** **Mengzhou Wu**, Yuzhe Guo, Yuan Cao, Haochuan Lu, et al. *ICML 2026*, under review.
-- **Element-Aware Fine-Tuning of Vision-Language Models for Cost-Efficient GUI Testing in an Industrial Setting.** **Mengzhou Wu**\*, Yuzhe Guo\*, Yuan Cao, Haochuan Lu, et al. *ASE 2025*.
-- **SAIL: LLM-based Android UI Test Migration with Skill-Adaptive Imitation Learning.** **Mengzhou Wu**, Hao Wang, Jun Ren, Yuan Cao, et al. *arXiv*.
-- **Beyond Pass or Fail: A Multi-Dimensional Benchmark for Mobile UI Navigation.** Dezhi Ran\*, **Mengzhou Wu**\*, Hao Yu, Yuetong Li, et al. *TOSEM*, under review.
-- **Foundation Model Engineering: Engineering Foundation Models Just as Engineering Software.** Dezhi Ran, **Mengzhou Wu**, Wei Yang, Tao Xie. *TOSEM*.
+- ICML 2026 reviewer.
+- ACL 2025 co-reviewer.
+- Programming Practice, TA, 2025-2026 Spring semester.
+- Introduction to Computer Systems, TA for small class, 2024-2025 Fall semester.
+- Algorithm Design and Analysis, TA for small class, 2023-2024 Spring semester.
+- Problem setter for several algorithm and programming contests(ICPC/CCPC).
 
-<span class='anchor' id='honors-and-awards'></span>
-## Honors and Awards
-<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- **2025** Selected for the **Turing Graduate Program**, Peking University.
-- **2023** **CCF Outstanding Undergraduate**, one of two recipients from Peking University.
-- **2022** **CCPC Mianyang** Gold Medal, **Rank 3**.
-- **2022 - 2023** Multiple **ICPC** regional Gold Medals, including Xi'an, Jinan, and Kunming.
-- **2020** **NOI Gold Medal** and admission to Peking University through the National Training Team.
-- **2021 - 2024** Multiple university honors and scholarships, including the Huawei Scholarship, SZSE Scholarship, and Suzhou Industrial Park Scholarship.
+<span class='anchor' id='work-experience'></span>
+## Work Experience
 
-
-<span class='anchor' id='education'></span>
-## Education
-<!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- **2025.09 - Present** Ph.D. student in Computer Science, Peking University, advised by Prof. Tao Xie.
-- **2021.09 - 2025.06** B.S. (Honors) in Computer Science, Turing Class, Peking University. GPA **3.75/4.0**, top **10%**.
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-<span class='anchor' id='competitive-programming'></span>
-## Competitive Programming
-- **2018 - Present** Active in **NOI**, **ICPC**, and **CCPC**.
-- Gold medalist at **NOI 2020**, ranked in the national top 50 and selected into the National Training Team.
-- **CCPC 2022 Mianyang** Rank 3, **CCPC 2021 Harbin** Rank 3, with multiple ICPC/CCPC regional Gold Medals.
-- Served as a problem setter for several programming contests.
+- **Internship at Tencent, WeChat**, 2024.12-Present.
+  - Led the Cost-Efficient GUI Testing in WeChat project, 2024.12-2025.06, which resulted in the paper *Element-Aware Fine-Tuning of Vision-Language Models for Cost-Efficient GUI Testing in an Industrial Setting*.
+  - Led mid-training for the AI assistant for WeChat Mini Program, 2025.06-Present, which resulted in the paper *UI-Oceanus: Scaling GUI Agents with Synthetic Environmental Dynamics*.
