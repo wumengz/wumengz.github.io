@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mengzhou Wu | 吴孟周"
-description              : "Ph.D. student at Peking University working on GUI agents, UI testing, and foundation models for software engineering."
+description              : "Ph.D. student at Peking University working on GUI agents and foundation models for software engineering."
 repository               : "wumengz/wumengz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mengzhou Wu"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "Ph.D. student, School of Computer Science"
+  bio              : "Ph.D. student at Peking University"
   location         : "Beijing, China"
   employer         : "PKUASE Group"
   pubmed           : 
