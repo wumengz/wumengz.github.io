@@ -27,8 +27,8 @@ Before starting my Ph.D. in September 2025, I received my B.S. (Honors) in Compu
 <span class='anchor' id='news'></span>
 ## News
 
-- 2026.01, *AppForge: From Assistant to Independent Developer -- Are GPTs Ready for Software Development?* was accepted to *ICLR 2026*.
-- 2025.09, Our paper on cost-efficient GUI testing in industry was accepted to *ASE 2025*.
+- 2026.01, Our paper *AppForge: From Assistant to Independent Developer -- Are GPTs Ready for Software Development?* was accepted to *ICLR 2026*.
+- 2025.09, Our paper *Element-Aware Fine-Tuning of Vision-Language Models for Cost-Efficient GUI Testing in an Industrial Setting* was accepted to *ASE 2025*.
 - 2025.09, Started my Ph.D. at Peking University and joined the Turing Graduate Program.
 
 <span class='anchor' id='publications'></span>
@@ -36,8 +36,34 @@ Before starting my Ph.D. in September 2025, I received my B.S. (Honors) in Compu
 
 Full list: [Google Scholar](https://scholar.google.com/citations?user=J0LIkIsAAAAJ) <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations">
 
-- **UI-Oceanus: Scaling GUI Agents with Synthetic Environmental Dynamics.** **Mengzhou Wu**, Yuzhe Guo, Yuan Cao, Haochuan Lu, dfshenzhu, Pingzhe Qu, Xin Chen, Kangqin, Zhongpu Wang, Xiaode Zhang, Xinyi Wang, Wei Dai, Gang Cao, Yuetang Deng, Gong Zhi, Dezhi Ran, Linyi Li, Wei Yang, Tao Xie.
-- **[Element-Aware Fine-Tuning of Vision-Language Models for Cost-Efficient GUI Testing in an Industrial Setting](https://conf.researchr.org/details/ase-2025/ase-2025-industry-showcase/42/Element-Aware-Fine-Tuning-of-Vision-Language-Models-for-Cost-Efficient-GUI-Testing-in).** **Mengzhou Wu**\*, Yuzhe Guo\*, Yuan Cao, Haochuan Lu, Hengyu Zhang, Xia Zeng, Liangchao Yao, Yuetang Deng, Dezhi Ran, Wei Yang, Tao Xie. *ASE 2025*.
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <div><img src='images/publications/ui-oceanus.png' alt="UI-Oceanus figure" width="100%"></div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[UI-Oceanus: Scaling GUI Agents with Synthetic Environmental Dynamics](images/publications/uioceanus.pdf)
+
+**Mengzhou Wu**, Yuzhe Guo, Yuan Cao, Haochuan Lu, dfshenzhu, Pingzhe Qu, Xin Chen, Kangqin, Zhongpu Wang, Xiaode Zhang, Xinyi Wang, Wei Dai, Gang Cao, Yuetang Deng, Gong Zhi, Dezhi Ran, Linyi Li, Wei Yang, Tao Xie
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <div><img src='images/publications/element-aware.png' alt="Element-Aware figure" width="100%"></div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[Element-Aware Fine-Tuning of Vision-Language Models for Cost-Efficient GUI Testing in an Industrial Setting](https://ieeexplore.ieee.org/document/11334646)
+
+**Mengzhou Wu**\*, Yuzhe Guo\*, Yuan Cao, Haochuan Lu, Hengyu Zhang, Xia Zeng, Liangchao Yao, Yuetang Deng, Dezhi Ran, Wei Yang, Tao Xie
+
+*ASE 2025*
+
+</div>
+</div>
+
 - **[Skill-Adaptive Imitation Learning for UI Test Reuse](https://arxiv.org/abs/2409.13311).** **Mengzhou Wu**, Hao Wang, Jun Ren, Yuan Cao, Yuetong Li, Alex Jiang, Dezhi Ran, Yitao Hu, Wei Yang, Tao Xie. *arXiv*.
 - **[Beyond Pass or Fail: A Multi-Dimensional Benchmark for Mobile UI Navigation](https://arxiv.org/abs/2501.02863).** Dezhi Ran\*, **Mengzhou Wu**\*, Hao Yu, Yuetong Li, Jun Ren, Yuan Cao, Xia Zeng, Haochuan Lu, Zexin Xu, Mengqian Xu, Ting Su, Liangchao Yao, Ting Xiong, Wei Yang, Yuetang Deng, Assaf Marron, David Harel, Tao Xie. *arXiv*.
 - **[Guardian: A Runtime Framework for LLM-Based UI Exploration](https://doi.org/10.1145/3650212.3680334).** Dezhi Ran, Hao Wang, Zihe Song, **Mengzhou Wu**, Yuan Cao, Ying Zhang, Wei Yang, Tao Xie. *Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, 2024*.
