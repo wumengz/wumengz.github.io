@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mengzhou Wu | 吴孟周"
-description              : "Ph.D. student at Peking University working on GUI agents and foundation models for software engineering."
+description              : "Ph.D. student at Peking University studying GUI agents, agentic software engineering, and foundation-model systems."
 repository               : "wumengz/wumengz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/383/3622.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
