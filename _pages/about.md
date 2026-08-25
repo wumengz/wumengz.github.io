@@ -64,6 +64,21 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=J0LIkIsAAA
 </div>
 </div>
 
+<div class='paper-box paper-box--featured paper-box--wide'>
+<div class='paper-box-image paper-box-image--backendforge'>
+  <div><img class='paper-thumb paper-thumb--backendforge' src='images/publications/backendforge.png' alt="BackendForge framework overview" width="100%"></div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[BackendForge: Benchmarking Agentic End-to-End Code Generation with Backend Services](https://arxiv.org/abs/2607.11042)
+
+Yuzhe Guo\*, **Mengzhou Wu**\*, Yuan Cao, Jialei Wei, Dezhi Ran, Wei Yang, Tao Xie
+
+*Findings of EMNLP 2026*
+
+</div>
+</div>
+
 <div class='paper-box paper-box--featured'>
 <div class='paper-box-image paper-box-image--element-aware'>
   <div><img class='paper-thumb paper-thumb--element-aware' src='images/publications/element-aware.png' alt="Element-Aware figure" width="100%"></div>
@@ -79,7 +94,6 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=J0LIkIsAAA
 </div>
 </div>
 
-- **[BackendForge: Benchmarking Agentic End-to-End Code Generation with Backend Services](https://arxiv.org/abs/2607.11042).** Yuzhe Guo\*, **Mengzhou Wu**\*, Yuan Cao, Jialei Wei, Dezhi Ran, Wei Yang, Tao Xie. *Findings of EMNLP 2026*.
 - **[AstraGame: Effective and Efficient VLM Agent Serving for Large-Scale Game Testing in an Industry Setting](https://doi.org/10.1145/3803437.3805252).** Yuzhe Guo, Haochuan Lu, **Mengzhou Wu**, Ting Xiong, Yuetang Deng, Dezhi Ran, Wei Yang, Tao Xie. *FSE 2026 Industry Track*.
 - **[SAIL: LLM-based Android UI Test Migration with Skill-Adaptive Imitation Learning](https://arxiv.org/abs/2409.13311).** **Mengzhou Wu**, Hao Wang, Jun Ren, Yuan Cao, Yuetong Li, Alex Jiang, Dezhi Ran, Yitao Hu, Wei Yang, Tao Xie. *arXiv*.
 - **[Beyond Pass or Fail: Multi-Dimensional Benchmarking of Foundation Models for Goal-based Mobile UI Navigation](https://arxiv.org/abs/2501.02863).** Dezhi Ran\*, **Mengzhou Wu**\*, Hao Yu, Yuetong Li, Jun Ren, Yuan Cao, Xia Zeng, Haochuan Lu, Zexin Xu, Mengqian Xu, Ting Su, Liangchao Yao, Ting Xiong, Wei Yang, Yuetang Deng, Assaf Marron, David Harel, Tao Xie. *ACM TOSEM, major revision*.

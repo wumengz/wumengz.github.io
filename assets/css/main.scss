@@ -117,6 +117,23 @@
     }
 }
 
+.paper-box--wide {
+    .paper-box-image {
+        width: 100%;
+        min-width: 0;
+        max-width: 100%;
+        order: 1;
+        justify-content: center;
+    }
+
+    .paper-box-text {
+        width: 100%;
+        max-width: 100%;
+        order: 2;
+        padding: 1em 0 0;
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
