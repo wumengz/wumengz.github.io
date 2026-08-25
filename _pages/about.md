@@ -64,21 +64,6 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=J0LIkIsAAA
 </div>
 </div>
 
-<div class='paper-box paper-box--featured paper-box--wide'>
-<div class='paper-box-image paper-box-image--backendforge'>
-  <div><img class='paper-thumb paper-thumb--backendforge' src='images/publications/backendforge.png' alt="BackendForge framework overview" width="100%"></div>
-</div>
-<div class='paper-box-text' markdown="1">
-
-[BackendForge: Benchmarking Agentic End-to-End Code Generation with Backend Services](https://arxiv.org/abs/2607.11042)
-
-Yuzhe Guo\*, **Mengzhou Wu**\*, Yuan Cao, Jialei Wei, Dezhi Ran, Wei Yang, Tao Xie
-
-*Findings of EMNLP 2026*
-
-</div>
-</div>
-
 <div class='paper-box paper-box--featured'>
 <div class='paper-box-image paper-box-image--element-aware'>
   <div><img class='paper-thumb paper-thumb--element-aware' src='images/publications/element-aware.png' alt="Element-Aware figure" width="100%"></div>
@@ -90,6 +75,21 @@ Yuzhe Guo\*, **Mengzhou Wu**\*, Yuan Cao, Jialei Wei, Dezhi Ran, Wei Yang, Tao X
 **Mengzhou Wu**\*, Yuzhe Guo\*, Yuan Cao, Haochuan Lu, Hengyu Zhang, Xia Zeng, Liangchao Yao, Yuetang Deng, Dezhi Ran, Wei Yang, Tao Xie
 
 *ASE 2025*
+
+</div>
+</div>
+
+<div class='paper-box paper-box--featured paper-box--wide'>
+<div class='paper-box-image paper-box-image--backendforge'>
+  <div><img class='paper-thumb paper-thumb--backendforge' src='images/publications/backendforge.png' alt="BackendForge framework overview" width="100%"></div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[BackendForge: Benchmarking Agentic End-to-End Code Generation with Backend Services](https://arxiv.org/abs/2607.11042)
+
+Yuzhe Guo\*, **Mengzhou Wu**\*, Yuan Cao, Jialei Wei, Dezhi Ran, Wei Yang, Tao Xie
+
+*Findings of EMNLP 2026*
 
 </div>
 </div>
