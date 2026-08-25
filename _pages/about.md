@@ -27,7 +27,7 @@ Before starting my Ph.D. in September 2025, I received my B.S. (Honors) in Compu
 <span class='anchor' id='research'></span>
 ## Research
 
-- **GUI Agents.** I study scalable training and evaluation for agents operating real software environments, with a focus on efficient visual representations, synthetic environments, continual mid-training, multi-turn reinforcement learning, and real-world GUI benchmarks. This line of work has led to publications at ASE, ISSTA, and TOSEM.
+- **GUI Agents.** I study scalable training and evaluation for agents operating real software environments, with a focus on efficient visual representations, synthetic environments, continual mid-training, multi-turn reinforcement learning, and real-world GUI benchmarks. This line of work has led to publications at FSE, ASE, ISSTA, and TOSEM.
 - **Software in the LLM Era.** I investigate how agents can move from assisting programmers to producing and operating complete software systems. My recent work covers project-level application development, end-to-end backend generation, GPU-kernel optimization, tool-use agents, and agent-native, intent-oriented software.
 - **Foundation-Model Engineering.** I study collaborative development of foundation models, especially model merging and the reliable integration of capabilities learned from different tasks.
 
@@ -37,6 +37,7 @@ My systems experience includes LLM mid-training and post-training, SFT and agent
 ## News
 
 - 2026.08, *UI-Oceanus* and *BackendForge* were accepted to *Findings of EMNLP 2026*.
+- 2026.07, Our industry paper *AstraGame* was published at *FSE 2026*.
 - 2026.07, Released the *BackendForge* benchmark for agentic end-to-end backend generation.
 - 2026.02, Released *UI-Oceanus*, our work on scaling GUI agents with synthetic environmental dynamics.
 - 2026.01, Our paper *AppForge: From Assistant to Independent Developer -- Are GPTs Ready for Software Development?* was accepted to *ICLR 2026*.
@@ -79,6 +80,7 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=J0LIkIsAAA
 </div>
 
 - **[BackendForge: Benchmarking Agentic End-to-End Code Generation with Backend Services](https://arxiv.org/abs/2607.11042).** Yuzhe Guo\*, **Mengzhou Wu**\*, Yuan Cao, Jialei Wei, Dezhi Ran, Wei Yang, Tao Xie. *Findings of EMNLP 2026*.
+- **[AstraGame: Effective and Efficient VLM Agent Serving for Large-Scale Game Testing in an Industry Setting](https://doi.org/10.1145/3803437.3805252).** Yuzhe Guo, Haochuan Lu, **Mengzhou Wu**, Ting Xiong, Yuetang Deng, Dezhi Ran, Wei Yang, Tao Xie. *FSE 2026 Industry Track*.
 - **[SAIL: LLM-based Android UI Test Migration with Skill-Adaptive Imitation Learning](https://arxiv.org/abs/2409.13311).** **Mengzhou Wu**, Hao Wang, Jun Ren, Yuan Cao, Yuetong Li, Alex Jiang, Dezhi Ran, Yitao Hu, Wei Yang, Tao Xie. *arXiv*.
 - **[Beyond Pass or Fail: Multi-Dimensional Benchmarking of Foundation Models for Goal-based Mobile UI Navigation](https://arxiv.org/abs/2501.02863).** Dezhi Ran\*, **Mengzhou Wu**\*, Hao Yu, Yuetong Li, Jun Ren, Yuan Cao, Xia Zeng, Haochuan Lu, Zexin Xu, Mengqian Xu, Ting Su, Liangchao Yao, Ting Xiong, Wei Yang, Yuetang Deng, Assaf Marron, David Harel, Tao Xie. *ACM TOSEM, major revision*.
 - **[Guardian: A Runtime Framework for LLM-Based UI Exploration](https://doi.org/10.1145/3650212.3680334).** Dezhi Ran, Hao Wang, Zihe Song, **Mengzhou Wu**, Yuan Cao, Ying Zhang, Wei Yang, Tao Xie. *Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, 2024*.
